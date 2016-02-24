@@ -1,10 +1,7 @@
 {
   "name": "JASidePanels",
   "version": "1.3.2",
-  "license": {
-    "type": "MIT",
-    "file": "README.markdown"
-  },
+  "license": "MIT",
   "summary": "UIViewController container designed for presenting a center panel with revealable side panels - one to the left and one to the right.",
   "homepage": "https://github.com/gotosleep/JASidePanels",
   "authors": {
